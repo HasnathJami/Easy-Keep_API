@@ -14,7 +14,7 @@ import (
 
 func main() {
 	err := godotenv.Load(".env")
-	utils.CheckError(err)
+	utils.CheckSimpleError(err)
 
 	var r *mux.Router
 	r = router.Router()
