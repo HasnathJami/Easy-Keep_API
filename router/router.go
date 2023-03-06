@@ -3,7 +3,7 @@ package router
 import (
 	"net/http"
 
-	"github.com/HasnathJami/go-myWallet-mux-mongoDb/controllers"
+	"github.com/HasnathJami/Easy-Keep/controllers"
 	"github.com/gorilla/mux"
 )
 

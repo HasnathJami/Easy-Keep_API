@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/HasnathJami/go-myWallet-mux-mongoDb/database"
+	"github.com/HasnathJami/Easy-Keep/database"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

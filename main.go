@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/HasnathJami/go-myWallet-mux-mongoDb/router"
-	"github.com/HasnathJami/go-myWallet-mux-mongoDb/utils"
+	"github.com/HasnathJami/Easy-Keep/router"
+	"github.com/HasnathJami/Easy-Keep/utils"
 	"github.com/gorilla/mux"
 	"github.com/joho/godotenv"
 )

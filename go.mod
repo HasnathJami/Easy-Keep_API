@@ -1,4 +1,4 @@
-module github.com/HasnathJami/go-myWallet-mux-mongoDb
+module github.com/HasnathJami/Easy-Keep
 
 go 1.19
 

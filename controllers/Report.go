@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/HasnathJami/go-myWallet-mux-mongoDb/models"
-	"github.com/HasnathJami/go-myWallet-mux-mongoDb/utils"
+	"github.com/HasnathJami/Easy-Keep/models"
+	"github.com/HasnathJami/Easy-Keep/utils"
 )
 
 

@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/HasnathJami/go-myWallet-mux-mongoDb/utils"
+	"github.com/HasnathJami/Easy-Keep/utils"
 	"github.com/joho/godotenv"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
